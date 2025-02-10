@@ -25,25 +25,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/etwaTTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this lab, we explored the process of creating, managing, and resolving tickets within osTicket, both from the perspective of an end-user and a help desk agent. This exercise helped us understand how tickets move through the system, how priorities are assigned, and how different roles interact with ticket properties.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dnjXnWq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, as an end-user, we created a ticket with the issue: “Entire mobile/online banking system is down.” This simulated a real-world critical outage that required immediate attention from the support team.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/MrzLtjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, as a Help Desk Agent (John), we accessed the ticket and observed its properties—including priority, department, SLA, and assigned agent. Since the issue was urgent, we updated the ticket’s priority to Sev-A (1-hour response, 24/7) and assigned it to the Online Banking Department. After making these changes, we attempted to view or modify the ticket again as John, testing if permissions allowed further adjustments.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role-based access control.
 </p>
 <br />
