@@ -21,6 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assignment and Communication
 - Working the Issue
 - Resolution
+- Repeat
 
 <h2>Lifecycle Stages</h2>
 
@@ -45,6 +46,46 @@ First, as an end user, we created a ticket with the issue involoing a entire onl
 </p>
 <p>
 Next, as a Help Desk Agent (John), we accessed the ticket and observed its properties—including priority, department, SLA, and assigned agent. Since the issue was urgent, we updated the ticket’s priority to Sev A (1-hour response, 24/7) and assigned it to the Online Banking Department. After making these changes, we attempted to view or modify the ticket again as John, testing if permissions allowed further adjustments.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role based access control.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role based access control.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role based access control.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role based access control.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/txFUrVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, as Jane (another agent), we took ownership of the ticket and worked it to completion. This involved responding to the end-user, troubleshooting the issue, and closing the ticket once the problem was resolved. This process demonstrated how osTicket allows teams to assign, track, and manage critical support issues efficiently while ensuring proper workflow and role based access control.
 </p>
 <br />
 
